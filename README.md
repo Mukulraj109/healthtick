@@ -108,7 +108,7 @@ To populate Firebase with initial test data, run the following commands using `t
 ```bash
 npx tsx createTestBooking.ts
 npx tsx createClient.ts
-
+```
 
 ## 🔄 API Endpoints
 
